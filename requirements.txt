@@ -1,0 +1,17 @@
+# 🐢 SUPER TURTLE ADVENTURE - Requirements
+
+# Core modules used (all built-in):
+# - turtle: For graphics and game window
+# - random: For generating random positions, colors, and effects  
+# - time: For controlling game speed and delays
+turtle
+
+# 📌 Linux users might need tkinter for turtle graphics:
+# sudo apt-get install python3-tk
+
+# 🚀 Optional enhancements you could add:
+# pygame>=2.1.0          # For advanced sound effects
+# playsound>=1.3.0       # For simple cross-platform sounds  
+# colorama>=0.4.4        # For colorful terminal output
+
+# Happy coding! 🎮💻
