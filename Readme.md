@@ -1,4 +1,4 @@
-# 🐢 SUP### 🎮 **Amazing Features**
+# 🐢 Turtle Game
 
 An EPIC Python Turtle Game that will blow your mind! 🤯 Perfect for new Python learners who want to see what amazing things they can create with code! SUPER SNAKE ADVENTURE! 
 
